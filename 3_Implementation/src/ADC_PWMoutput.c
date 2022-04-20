@@ -3,7 +3,7 @@
  * @author Pavankumar.R (valmiki12179@gmail.com)
  * @brief A file where pulse width modulation is implemented
  * @version 0.1
- * @date 2022-04-17
+ * @date 2022-04-16
  * 
  * @copyright Copyright (c) 2022
  * 

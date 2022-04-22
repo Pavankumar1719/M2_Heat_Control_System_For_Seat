@@ -18,8 +18,8 @@ In the past few years, the need for automation has increased and has been widely
 ### Explanation
 *   #### Heat control system for seat have few features like automatic button sensor which will be activated, heater will be accessed, temperature sensore keeps monitoring the temperature and the analog values are sent to microcontroller called Atmega328p.
 
-## SWOT(ADVANTAGE,WEAKNESS,OPPORTUNITY,THREATS)
-### ADVANTAGE:
+## SWOT(STRENGTH,WEAKNESS,OPPORTUNITY,THREATS)
+### STRENGTH:
 * Activates automatic, warms the body in cold season and gives the appropriate results from temperature sensor.
 * Gives an alter for person driving for an hours by over heat to take breake.
 ### WEAKNESS:

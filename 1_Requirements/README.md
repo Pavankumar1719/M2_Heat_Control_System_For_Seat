@@ -39,23 +39,22 @@ In the past few years, the need for automation has increased and has been widely
 *   By creating a system which will provide all the functionalities required, to turn on, automatic sensor activate, mornitoring temperature, maintaing required temperature
 
 ## Low Level-Requirement  
-|  ID    |                 Description                   |  HLR ID  | Status(Implementated/Future)  |
-|  ---   | --------------------------------------------- | -------- | ----------------------------- |
-| LR01  | User shall be able to login to the system with correct login details  | HR01  | `Implementated` |
-| LR02  | User need to book a ticket in a user entry mode | HR01  | `Implementated` |
-| LR03  | If appropriate login details are not entered a message is displayed "Wrong password" | HR01  | `Implementated` |
-| LR04  | Displaying the movies available | HR02  | `Implementated` |
-| LR05  | Admin can change the price for the movie | HR02  | `Implementated` |
-| LR06  | If user specifies seat number which is booked, message appears that the seat is unavailable | HR03  | `Implementated` |
-| LR07  | Displaying the summary of the ticket booked | HR03  | `Implementated` |
+|  ID    |                 Description                   | Status(Implementated/Future)  |
+|  ---   | --------------------------------------------- |  --------------------------- |
+| LR01  | Switches are closed, the first LED glows  | `Implementated` |
+| LR02  | Led buld interfacing | `Implementated` |
+| LR03  | Temperature sensor with Atmega328p | `Implementated` |
+| LR04  | Temperature control measure and increase display | `Implementated` |
+| LR05  | Oscilloscope visualization using Pulse width modulation | `Implementated` |
+
 
 ## High Level-Requiements
-|  ID    |                 Description                   |  Category  | Status |
-|  ---   | --------------------------------------------- | -------- | ----------------------------- |
-| LR01  | User shall be able to login the system  | Technical | `Implementated` |
-| LR02  | User shall be able to purchase a ticket | Technical | `Implementated` |
-| LR03  | User shall be able to get summary of the ticket booked | Technical | `Implementated` |
-| LR04  | User shall be able to cancel a ticket | Technical | `Implementated` |
-| LR05  | User shall be able to view the reserved seats | Technical | `Implementated` |
+|  ID    |                 Description                   | Status |
+|  ---   | ---------------------------------------------  | ------- |
+| HR01  |  LED glows indicating the actuation of the system and the heater | `Implementated` |
+| HR02  | The analog input from the temperature sensor is received and digitized. | `Implementated` |
+| HR03  | The digitized temperature input is visualized using Pulse Width Modulation | `Implementated` |
+| HR04  | The data is displayed on the serial monitor | `Implementated` |
+| HR05  | The digitized temperature input is transmitted by the UART protocol | `Implementated` |
 
 

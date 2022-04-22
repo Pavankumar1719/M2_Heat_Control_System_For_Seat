@@ -10,32 +10,21 @@ In the past few years, the need for automation has increased and has been widely
 
 ## Features
 
-*   ### 
-*   ### 
-*   ### 
-*   ### 
-
-## Benifits
-
-### Movie Ticket Booking system provides wide range of benefit they are as follows
-*   #### 
-*   #### 
-*   #### 
-*   #### 
+*   ### Measuring seat temperature
+*   ### Control feature for heat
+*   ### Helps in winter season to keep warm
 
 ## Defining Our System
 
 ### Explanation
-*   #### Movie Ticket Booking System have few inbuilt features like Admin
-Login, Can Change Price of a Ticket, Can View the Reserved Tickets, Exit System, User, Login with Credatials, View the Movies Avaliable, Purchase a Ticket, View the avaliable seats, Cancel a Ticket and Exit System.
-
+*   #### Heat control system for seat have few features like automatic button sensor which will be activated, heater will be accessed, temperature sensore keeps monitoring the temperature and the analog values are sent to microcontroller called Atmega328p.
 
 ## 4W's and 1'H
 ## Who
-*   People wish to book the ticket to watch in theater
+*   People who drivers a lot in winter season can make use of these heat control system
 ## What
 
-*   To bulid a system to book ticket,cancel ticket,view reserverd seats,change price of ticket(only admin)
+*   To bulid a system to heat seat at required temperature and monitoring the temperature accordingly
 
 ## When
 
@@ -43,13 +32,11 @@ Login, Can Change Price of a Ticket, Can View the Reserved Tickets, Exit System,
 
 ## Where
 
-*   This issue is in all parts of the world in theater where there is a lot of booking,cancellation of tickets happening in all the time
+*   This issue is in all parts cars where warming the seat and controlling the temperature
 
 ## How
 
-*   By creating a system which will provide all the functionalities required,the booking of, cancelling of the tickes and other actions will be take more time and system needs more workers for these actions
-
-### Details requirements
+*   By creating a system which will provide all the functionalities required, to turn on, automatic sensor activate, mornitoring temperature, maintaing required temperature
 
 ## Low Level-Requirement  
 |  ID    |                 Description                   |  HLR ID  | Status(Implementated/Future)  |

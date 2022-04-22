@@ -18,24 +18,19 @@ In the past few years, the need for automation has increased and has been widely
 ### Explanation
 *   #### Heat control system for seat have few features like automatic button sensor which will be activated, heater will be accessed, temperature sensore keeps monitoring the temperature and the analog values are sent to microcontroller called Atmega328p.
 
-## 4W's and 1'H
-## Who
-*   People who drivers a lot in winter season can make use of these heat control system
-## What
-
-*   To bulid a system to heat seat at required temperature and monitoring the temperature accordingly
-
-## When
-
-*   When user wants to carry out the tasks quickly and this reduces manual work and saves time
-
-## Where
-
-*   This issue is in all parts cars where warming the seat and controlling the temperature
-
-## How
-
-*   By creating a system which will provide all the functionalities required, to turn on, automatic sensor activate, mornitoring temperature, maintaing required temperature
+## SWOT(ADVANTAGE,WEAKNESS,OPPORTUNITY,THREATS)
+### ADVANTAGE:
+* Activates automatic, warms the body in cold season and gives the appropriate results from temperature sensor.
+* Gives an alter for person driving for an hours by over heat to take breake.
+### WEAKNESS:
+* LIMITED RANGE.
+### OPPORTUNITY:
+* INTERNET OF THINGS(IOT).
+* In Autonomous vehicle field.
+### THREATS:
+* Sensor disconnection.
+* Failure of components
+* More Power consumption.
 
 ## Low Level-Requirement  
 |  ID    |                 Description                   | Status(Implementated/Future)  |
@@ -55,5 +50,20 @@ In the past few years, the need for automation has increased and has been widely
 | HR03  | The digitized temperature input is visualized using Pulse Width Modulation | `Implementated` |
 | HR04  | The data is displayed on the serial monitor | `Implementated` |
 | HR05  | The digitized temperature input is transmitted by the UART protocol | `Implementated` |
+
+## 4W's and 1'H
+## Who
+*   People who drivers a lot in winter season can make use of these heat control system
+## What
+*   To bulid a system to heat seat at required temperature and monitoring the temperature accordingly
+
+## When
+*   When user wants to carry out the tasks quickly and this reduces manual work and saves time
+
+## Where
+*   This issue is in all parts cars where warming the seat and controlling the temperature
+
+## How
+*   By creating a system which will provide all the functionalities required, to turn on, automatic sensor activate, mornitoring temperature, maintaing required temperature
 
 

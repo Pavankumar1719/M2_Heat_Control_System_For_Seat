@@ -61,8 +61,8 @@ The heat control system is basically used to control the temperature of a car se
 ## How
 *   By creating a system which will provide all the functionalities required, to turn on, automatic sensor activate, mornitoring temperature, maintaing required temperature
 
-## * SWOT(ADVANTAGE,WEAKNESS,OPPORTUNITY,THREATS)
-### ADVANTAGE:
+## SWOT(STRENGTH,WEAKNESS,OPPORTUNITY,THREATS)
+### STRENGTH:
 * Activates automatic, warms the body in cold season and gives the appropriate results from temperature sensor.
 * Gives an alter for person driving for an hours by over heat to take breake.
 

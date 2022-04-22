@@ -15,7 +15,6 @@ In the past few years, the need for automation has increased and has been widely
 *   ### Helps in winter season to keep warm
 
 ## Defining Our System
-
 ### Explanation
 *   #### Heat control system for seat have few features like automatic button sensor which will be activated, heater will be accessed, temperature sensore keeps monitoring the temperature and the analog values are sent to microcontroller called Atmega328p.
 

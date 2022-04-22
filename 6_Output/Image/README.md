@@ -1,4 +1,4 @@
-# IMAGES:
+# IMAGES
 
 ## OFF MODE
 ![Simulation_OFF](https://user-images.githubusercontent.com/102242702/164473210-b9cfceb7-85b5-4eae-8488-44e04cb71426.PNG)

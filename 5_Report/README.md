@@ -22,7 +22,6 @@ The heat control system is basically used to control the temperature of a car se
 *   The digitized temperature input is visualized using Pulse Width Modulation.
 *   The corresponding temperature values based on the digitized temperature input is transmitted by the UART protocol. Here the data is displayed on the serial monitor.
 
-
 ## HIGH LEVEL REQUIREMENTS
 |  ID    |                 Description                   | Status |
 |  ---   | ---------------------------------------------  | ------- |

@@ -41,7 +41,6 @@ In the past few years, the need for automation has increased and has been widely
 | LR04  | Temperature control measure and increase display | `Implementated` |
 | LR05  | Oscilloscope visualization using Pulse width modulation | `Implementated` |
 
-
 ## High Level-Requiements
 |  ID    |                 Description                   | Status |
 |  ---   | ---------------------------------------------  | ------- |
@@ -65,5 +64,3 @@ In the past few years, the need for automation has increased and has been widely
 
 ## How
 *   By creating a system which will provide all the functionalities required, to turn on, automatic sensor activate, mornitoring temperature, maintaing required temperature
-
-

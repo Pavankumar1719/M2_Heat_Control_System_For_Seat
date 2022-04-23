@@ -22,3 +22,6 @@ The functionality of the heat control system is coded in embedded c and the work
 
 ## Simulation Output
 ![Simulation_ON](https://user-images.githubusercontent.com/102242702/164704832-2f2c3807-2a8a-4e1e-82fc-ed0acda7d400.PNG)
+
+## CODE QUALITY [![Codacy Badge](https://app.codacy.com/project/badge/Grade/027fa40b3e534e90b9f16bc95e22ec7f)](https://www.codacy.com/gh/Pavankumar1719/M2_Heat_Control_System_For_Seat/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Pavankumar1719/M2_Heat_Control_System_For_Seat&amp;utm_campaign=Badge_Grade)
+## CODE QUALITY SCORE ![Code Quality score](https://api.codiga.io/project/33061/score/svg)  CODE GRADE ![Code grade](https://api.codiga.io/project/33061/status/svg)

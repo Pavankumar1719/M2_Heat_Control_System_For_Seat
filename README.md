@@ -1,4 +1,7 @@
 # M2_Heat_Control_System_For_Seat
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4776cba9ecae4a1987e42197d0e571b9)](https://app.codacy.com/gh/Pavankumar1719/M2_Heat_Control_System_For_Seat?utm_source=github.com&utm_medium=referral&utm_content=Pavankumar1719/M2_Heat_Control_System_For_Seat&utm_campaign=Badge_Grade_Settings)
+
 ## HEAT CONTROL SYSTEM
 
 ## Introduction
